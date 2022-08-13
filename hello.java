@@ -1,13 +1,14 @@
-        class hello
-
+        class hello.java
+                               
 {
 
-	publick static void moin ()
+	publick static void moin () 
 
-        {
 
-               system.out.println("hello");
-
+       {
+        
+        system.out.printlm("hello") 
+          
 
 	}
 
