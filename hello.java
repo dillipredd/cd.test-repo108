@@ -1,8 +1,8 @@
-        class hello.java from dev1
+        class hello.java 
                                
 {
 
-	publick static void moin () from dev1 
+	publick static void moin ()  
 
 
        {
@@ -12,4 +12,4 @@
 
 	}
 
-}	i
+}	 
