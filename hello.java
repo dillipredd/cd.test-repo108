@@ -1,15 +1,11 @@
-        class hello.java # from dev1 
-                               
-{
+class hello
+{{
+	pulick static void main ()
+	
+	{
 
-	publick static void moin () # from dev1 
-
-
-       {
-        
-        system.out.printlm("hello.from dev1") ;
-          
+              system.out.println("main");
 
 	}
 
-}	 
+}	
