@@ -1,11 +1,13 @@
 class hello
+
 {{
-	pulick static void main ()
+	public static vaid main()
 	
 	{
 
-              system.out.println("main dev1");
+		system.out.println("main")
 
-	}
+        }
 
-}	
+}I	
+			
